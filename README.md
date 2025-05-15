@@ -6,8 +6,6 @@ A blogging API using FastAPI, PostgreSQL, and Docker – built with 12-Factor pr
 ## Features
 - Create, read, update, delete posts
 - PostgreSQL-backed storage
-- Dockerized & environment-driven config
-- GitHub Actions CI
 
 ## How to Run
 
